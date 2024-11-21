@@ -31,16 +31,16 @@
 
 ---
 
-<!--- ## 📈 Mes statistiques GitHub  
-![Mes Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Mury05&show_icons=true&theme=radical)
+## 📈 Mes statistiques GitHub  
+![Mes Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Murielle05&show_icons=true&theme=radical)
 
 ---
 
 ## 🌐 Langages les plus utilisés  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mury05&hide_progress=false)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Murielle05&hide_progress=false)
 
 ---
--->
+
 ## 🌍 Retrouve-moi ici  
 <!--- 🌟 [LinkedIn](https://www.linkedin.com/in/aures-assogba-zehe)-->
 - [Github](https://github.com/Mury05)  
